@@ -1,0 +1,1 @@
+npm i firebase@8.7.1
